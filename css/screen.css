@@ -73,6 +73,11 @@ input[type=tel]:focus {
   background-color: #000;
 }
 
+#navbar-container ul li a.active {
+  background-color: #000;
+  color: white;
+}
+
 #form{
 margin-left: 200px;
 	
