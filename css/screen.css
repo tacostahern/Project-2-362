@@ -95,27 +95,29 @@ margin-left: 200px;
   background-color: gray;
   display: inline-block;
   width: 100%;
-}
-#navbar-container ul li {
-  float: left;
-  position: relative;
-  width: 10%
-}
+  }
+  
+  #navbar-container ul li {
+    float: left;
+    position: relative;
+    width: 10%
+  }
 
-#navbar-container ul li a {
-  display: block;
-  text-decoration: none;
-  color: #fff;
-  padding: 10px 20px;
-  text-align: center;
-  font-size: 1em;
-}
-#navbar-container ul li a:hover {
-  background-color: #000;
-}
+  #navbar-container ul li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 1em;
+  }
+  
+  #navbar-container ul li a:hover {
+    background-color: #000;
+  }
 
-#navbar-container ul li a.active {
-  background-color: #000;
-  color: white;
-}
+  #navbar-container ul li a.active {
+    background-color: #000;
+    color: white;
+  }
 }
