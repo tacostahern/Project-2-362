@@ -15,7 +15,6 @@ h2{
 }
 li {
 	font-family: Verdana;
-	list-style-type: none;
 }
 
 #email,
@@ -60,7 +59,7 @@ input[type=tel]:focus {
   float: left;
   position: relative;
   width: 33.33%;
-  
+  list-style-type: none;
 }
 
 #navbar-container ul li a {
@@ -113,6 +112,7 @@ margin-left: 200px;
     float: left;
     position: relative;
     width: 10%;
+    list-style-type: none;
   }
 
   #navbar-container ul li a {
@@ -141,7 +141,17 @@ margin-left: 200px;
     margin-bottom: 1em;
   }
   
+  #thoughts {
+    text-align: center;
+  }
+  
   #thoughts_h2 {
     font-size: 1.7em;
+    margin-bottom: 1em;
+  }
+  
+  #thoughts ul{
+    list-style: square;
+    color: white;
   }
 }
