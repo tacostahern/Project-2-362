@@ -1,0 +1,79 @@
+body{
+	background-color: #87CEFA;
+	display: inline;
+
+}
+
+h1{
+	font-family: Verdana;
+	color: #191970;
+}
+
+h2{
+    font-family: Verdana;
+	color: #191970;
+	text-align: center;
+}
+li {
+	font-family: Verdana;
+	list-style-type: none;
+}
+
+#email,
+#phone,
+#firstname,
+#lastname {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+
+input {
+  padding: 12px 20px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+}
+
+input [type=button], input[type=submit], input[type=reset]{
+	background-color: lightgray;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+input[type=tel]:focus {
+  background-color: lightblue;
+}
+
+#navbar-container ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+  left: 50%;
+  right: 50%;
+  
+}
+#navbar-container ul li {
+  float: left;
+  position: relative;
+  display: inline-block;
+}
+
+#navbar-container ul li a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 20px;
+}
+#navbar-container ul li a:hover {
+  background-color: #000;
+}
+
+#form{
+margin-left: 200px;
+	
+}
