@@ -156,7 +156,7 @@ img#slider {
     z-index: 2;
   }
 
-#bottom {
+#bottom1 {
     margin-top: 10em;
     border-width:5px;  
     border-bottom-style:double;
@@ -264,7 +264,7 @@ img#slider {
     z-index: 2;
   }
 
-  #bottom {
+  #bottom1 {
     border-width:5px;  
     border-bottom-style:double;
     margin-top: 15em;
