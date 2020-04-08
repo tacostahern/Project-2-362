@@ -124,7 +124,22 @@ margin-left: 200px;
   margin-bottom: 1em;
 }
 
-img#slider {
+img#slider1 {
+  margin-top: 1em;
+  width: 40em;
+}
+
+img#slider2 {
+  margin-top: 1em;
+  width: 40em;
+}
+
+img#slider3 {
+  margin-top: 1em;
+  width: 40em;
+}
+
+img#slider4 {
   margin-top: 1em;
   width: 40em;
 }
@@ -232,9 +247,24 @@ img#slider {
     margin-bottom: 1em;
   }
 
-  img#slider {
+  img#slider1 {
     margin-top: 1em;
     width: 50em;
+  }
+
+  img#slider2 {
+      margin-top: 1em;
+      width: 50em;
+  }
+  
+  img#slider3 {
+      margin-top: 1em;
+      width: 50em;
+  }
+
+  img#slider4 {
+      margin-top: 1em;
+      width: 50em;
   }
 
   #slides {
